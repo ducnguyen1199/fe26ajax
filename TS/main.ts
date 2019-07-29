@@ -1,3 +1,7 @@
+function sure(){
+    console.log("ok?");
+}
+
 //Khai báo biến
 function foo(){
     var x=10;
