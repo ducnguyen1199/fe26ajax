@@ -1,5 +1,5 @@
 function sure(){
-    console.log("ok?");
+    console.log("fine?");
 }
 
 //Khai báo biến
