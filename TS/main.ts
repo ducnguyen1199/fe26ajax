@@ -1,7 +1,5 @@
 function sure(){
-    console.log("fine?");
-    console.log("fine?");
-    console.log("fine?");
+    var x=5;
 }
 
 //Khai báo biến
